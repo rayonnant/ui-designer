@@ -58,7 +58,6 @@ export const ProjectCard: React.FC<Project> = ({ id, preview, name, date }) => {
 								display: 'flex',
 								flexDirection: 'column',
 								justifyContent: 'center',
-								px: 0.5,
 								py: 1,
 							}}>
 							{editing.isEditing ? (
