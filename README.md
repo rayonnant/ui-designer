@@ -43,8 +43,8 @@ TypeScript и React с использованием менеджера сост�
 
 ## 🛠 Технологический стек
 
-- **Фронтенд:** [React, Typescript, MUI, Redux Toolkit, Konva]
-- **Деплой:** [Vercel]
+- **Фронтенд:** [React, Typescript, MUI, Redux Toolkit, Canvas]
+- **Деплой:** [Firebase]
 
 ## 📋 Основные требования (Vision)
 
